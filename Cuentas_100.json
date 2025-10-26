@@ -1,0 +1,602 @@
+[
+  {
+    "numeroCuenta": 10001,
+    "idCliente": "user1",
+    "tipoCuenta": "Ahorro",
+    "balance": 30171.12
+  },
+  {
+    "numeroCuenta": 10002,
+    "idCliente": "user2",
+    "tipoCuenta": "Corriente",
+    "balance": 20811.87
+  },
+  {
+    "numeroCuenta": 10003,
+    "idCliente": "user3",
+    "tipoCuenta": "Ahorro",
+    "balance": 19542.23
+  },
+  {
+    "numeroCuenta": 10004,
+    "idCliente": "user4",
+    "tipoCuenta": "Corriente",
+    "balance": 17126.2
+  },
+  {
+    "numeroCuenta": 10005,
+    "idCliente": "user5",
+    "tipoCuenta": "Ahorro",
+    "balance": 18614.47
+  },
+  {
+    "numeroCuenta": 10006,
+    "idCliente": "user6",
+    "tipoCuenta": "Corriente",
+    "balance": 25115.78
+  },
+  {
+    "numeroCuenta": 10007,
+    "idCliente": "user7",
+    "tipoCuenta": "Ahorro",
+    "balance": 33192.1
+  },
+  {
+    "numeroCuenta": 10008,
+    "idCliente": "user8",
+    "tipoCuenta": "Corriente",
+    "balance": 20339.45
+  },
+  {
+    "numeroCuenta": 10009,
+    "idCliente": "user9",
+    "tipoCuenta": "Ahorro",
+    "balance": 1444.96
+  },
+  {
+    "numeroCuenta": 10010,
+    "idCliente": "user10",
+    "tipoCuenta": "Corriente",
+    "balance": 18202.04
+  },
+  {
+    "numeroCuenta": 10011,
+    "idCliente": "user11",
+    "tipoCuenta": "Ahorro",
+    "balance": 27056.18
+  },
+  {
+    "numeroCuenta": 10012,
+    "idCliente": "user12",
+    "tipoCuenta": "Corriente",
+    "balance": 25003.16
+  },
+  {
+    "numeroCuenta": 10013,
+    "idCliente": "user13",
+    "tipoCuenta": "Ahorro",
+    "balance": 9044.23
+  },
+  {
+    "numeroCuenta": 10014,
+    "idCliente": "user14",
+    "tipoCuenta": "Corriente",
+    "balance": 15940.61
+  },
+  {
+    "numeroCuenta": 10015,
+    "idCliente": "user15",
+    "tipoCuenta": "Ahorro",
+    "balance": 16503.36
+  },
+  {
+    "numeroCuenta": 10016,
+    "idCliente": "user16",
+    "tipoCuenta": "Corriente",
+    "balance": 28945.26
+  },
+  {
+    "numeroCuenta": 10017,
+    "idCliente": "user17",
+    "tipoCuenta": "Ahorro",
+    "balance": 8324.0
+  },
+  {
+    "numeroCuenta": 10018,
+    "idCliente": "user18",
+    "tipoCuenta": "Corriente",
+    "balance": 14036.63
+  },
+  {
+    "numeroCuenta": 10019,
+    "idCliente": "user19",
+    "tipoCuenta": "Ahorro",
+    "balance": 10046.69
+  },
+  {
+    "numeroCuenta": 10020,
+    "idCliente": "user20",
+    "tipoCuenta": "Corriente",
+    "balance": 10653.42
+  },
+  {
+    "numeroCuenta": 10021,
+    "idCliente": "user21",
+    "tipoCuenta": "Ahorro",
+    "balance": 18318.9
+  },
+  {
+    "numeroCuenta": 10022,
+    "idCliente": "user22",
+    "tipoCuenta": "Corriente",
+    "balance": 9949.77
+  },
+  {
+    "numeroCuenta": 10023,
+    "idCliente": "user23",
+    "tipoCuenta": "Ahorro",
+    "balance": 32756.61
+  },
+  {
+    "numeroCuenta": 10024,
+    "idCliente": "user24",
+    "tipoCuenta": "Corriente",
+    "balance": 5864.35
+  },
+  {
+    "numeroCuenta": 10025,
+    "idCliente": "user25",
+    "tipoCuenta": "Ahorro",
+    "balance": 11665.48
+  },
+  {
+    "numeroCuenta": 10026,
+    "idCliente": "user26",
+    "tipoCuenta": "Corriente",
+    "balance": 18827.95
+  },
+  {
+    "numeroCuenta": 10027,
+    "idCliente": "user27",
+    "tipoCuenta": "Ahorro",
+    "balance": 35459.15
+  },
+  {
+    "numeroCuenta": 10028,
+    "idCliente": "user28",
+    "tipoCuenta": "Corriente",
+    "balance": 7747.17
+  },
+  {
+    "numeroCuenta": 10029,
+    "idCliente": "user29",
+    "tipoCuenta": "Ahorro",
+    "balance": 28372.51
+  },
+  {
+    "numeroCuenta": 10030,
+    "idCliente": "user30",
+    "tipoCuenta": "Corriente",
+    "balance": 14008.01
+  },
+  {
+    "numeroCuenta": 10031,
+    "idCliente": "user31",
+    "tipoCuenta": "Ahorro",
+    "balance": 12041.1
+  },
+  {
+    "numeroCuenta": 10032,
+    "idCliente": "user32",
+    "tipoCuenta": "Ahorro",
+    "balance": 7884.68
+  },
+  {
+    "numeroCuenta": 10033,
+    "idCliente": "user33",
+    "tipoCuenta": "Corriente",
+    "balance": 20815.46
+  },
+  {
+    "numeroCuenta": 10034,
+    "idCliente": "user34",
+    "tipoCuenta": "Ahorro",
+    "balance": 14097.91
+  },
+  {
+    "numeroCuenta": 10035,
+    "idCliente": "user35",
+    "tipoCuenta": "Ahorro",
+    "balance": 21680.91
+  },
+  {
+    "numeroCuenta": 10036,
+    "idCliente": "user36",
+    "tipoCuenta": "Ahorro",
+    "balance": 21167.67
+  },
+  {
+    "numeroCuenta": 10037,
+    "idCliente": "user37",
+    "tipoCuenta": "Ahorro",
+    "balance": 11704.64
+  },
+  {
+    "numeroCuenta": 10038,
+    "idCliente": "user38",
+    "tipoCuenta": "Ahorro",
+    "balance": 34290.05
+  },
+  {
+    "numeroCuenta": 10039,
+    "idCliente": "user39",
+    "tipoCuenta": "Corriente",
+    "balance": 31616.2
+  },
+  {
+    "numeroCuenta": 10040,
+    "idCliente": "user40",
+    "tipoCuenta": "Ahorro",
+    "balance": 14414.21
+  },
+  {
+    "numeroCuenta": 10041,
+    "idCliente": "user41",
+    "tipoCuenta": "Ahorro",
+    "balance": 12605.13
+  },
+  {
+    "numeroCuenta": 10042,
+    "idCliente": "user42",
+    "tipoCuenta": "Ahorro",
+    "balance": 20924.76
+  },
+  {
+    "numeroCuenta": 10043,
+    "idCliente": "user43",
+    "tipoCuenta": "Ahorro",
+    "balance": 11843.95
+  },
+  {
+    "numeroCuenta": 10044,
+    "idCliente": "user44",
+    "tipoCuenta": "Ahorro",
+    "balance": 13609.53
+  },
+  {
+    "numeroCuenta": 10045,
+    "idCliente": "user45",
+    "tipoCuenta": "Ahorro",
+    "balance": 30925.41
+  },
+  {
+    "numeroCuenta": 10046,
+    "idCliente": "user46",
+    "tipoCuenta": "Ahorro",
+    "balance": 8084.9
+  },
+  {
+    "numeroCuenta": 10047,
+    "idCliente": "user47",
+    "tipoCuenta": "Corriente",
+    "balance": 18241.11
+  },
+  {
+    "numeroCuenta": 10048,
+    "idCliente": "user48",
+    "tipoCuenta": "Ahorro",
+    "balance": 32234.16
+  },
+  {
+    "numeroCuenta": 10049,
+    "idCliente": "user49",
+    "tipoCuenta": "Corriente",
+    "balance": 8822.14
+  },
+  {
+    "numeroCuenta": 10050,
+    "idCliente": "user50",
+    "tipoCuenta": "Corriente",
+    "balance": 14425.21
+  },
+  {
+    "numeroCuenta": 10051,
+    "idCliente": "user51",
+    "tipoCuenta": "Ahorro",
+    "balance": 7874.74
+  },
+  {
+    "numeroCuenta": 10052,
+    "idCliente": "user52",
+    "tipoCuenta": "Ahorro",
+    "balance": 21435.77
+  },
+  {
+    "numeroCuenta": 10053,
+    "idCliente": "user53",
+    "tipoCuenta": "Corriente",
+    "balance": 18145.91
+  },
+  {
+    "numeroCuenta": 10054,
+    "idCliente": "user54",
+    "tipoCuenta": "Corriente",
+    "balance": 16072.7
+  },
+  {
+    "numeroCuenta": 10055,
+    "idCliente": "user55",
+    "tipoCuenta": "Corriente",
+    "balance": 9977.97
+  },
+  {
+    "numeroCuenta": 10056,
+    "idCliente": "user56",
+    "tipoCuenta": "Ahorro",
+    "balance": 4076.28
+  },
+  {
+    "numeroCuenta": 10057,
+    "idCliente": "user57",
+    "tipoCuenta": "Ahorro",
+    "balance": 16968.02
+  },
+  {
+    "numeroCuenta": 10058,
+    "idCliente": "user58",
+    "tipoCuenta": "Corriente",
+    "balance": 12071.83
+  },
+  {
+    "numeroCuenta": 10059,
+    "idCliente": "user59",
+    "tipoCuenta": "Ahorro",
+    "balance": 22789.48
+  },
+  {
+    "numeroCuenta": 10060,
+    "idCliente": "user60",
+    "tipoCuenta": "Ahorro",
+    "balance": 26698.22
+  },
+  {
+    "numeroCuenta": 10061,
+    "idCliente": "user61",
+    "tipoCuenta": "Corriente",
+    "balance": 40149.48
+  },
+  {
+    "numeroCuenta": 10062,
+    "idCliente": "user62",
+    "tipoCuenta": "Ahorro",
+    "balance": 33549.51
+  },
+  {
+    "numeroCuenta": 10063,
+    "idCliente": "user63",
+    "tipoCuenta": "Corriente",
+    "balance": 13155.91
+  },
+  {
+    "numeroCuenta": 10064,
+    "idCliente": "user64",
+    "tipoCuenta": "Corriente",
+    "balance": 7568.15
+  },
+  {
+    "numeroCuenta": 10065,
+    "idCliente": "user65",
+    "tipoCuenta": "Corriente",
+    "balance": 3019.5
+  },
+  {
+    "numeroCuenta": 10066,
+    "idCliente": "user66",
+    "tipoCuenta": "Ahorro",
+    "balance": 25910.45
+  },
+  {
+    "numeroCuenta": 10067,
+    "idCliente": "user67",
+    "tipoCuenta": "Corriente",
+    "balance": 21114.66
+  },
+  {
+    "numeroCuenta": 10068,
+    "idCliente": "user68",
+    "tipoCuenta": "Ahorro",
+    "balance": 11661.93
+  },
+  {
+    "numeroCuenta": 10069,
+    "idCliente": "user69",
+    "tipoCuenta": "Corriente",
+    "balance": 8452.23
+  },
+  {
+    "numeroCuenta": 10070,
+    "idCliente": "user70",
+    "tipoCuenta": "Ahorro",
+    "balance": 10226.87
+  },
+  {
+    "numeroCuenta": 10071,
+    "idCliente": "user71",
+    "tipoCuenta": "Corriente",
+    "balance": 30371.4
+  },
+  {
+    "numeroCuenta": 10072,
+    "idCliente": "user72",
+    "tipoCuenta": "Corriente",
+    "balance": 42853.19
+  },
+  {
+    "numeroCuenta": 10073,
+    "idCliente": "user73",
+    "tipoCuenta": "Ahorro",
+    "balance": 13468.81
+  },
+  {
+    "numeroCuenta": 10074,
+    "idCliente": "user74",
+    "tipoCuenta": "Ahorro",
+    "balance": 10077.77
+  },
+  {
+    "numeroCuenta": 10075,
+    "idCliente": "user75",
+    "tipoCuenta": "Ahorro",
+    "balance": 8318.23
+  },
+  {
+    "numeroCuenta": 10076,
+    "idCliente": "user76",
+    "tipoCuenta": "Ahorro",
+    "balance": 14888.75
+  },
+  {
+    "numeroCuenta": 10077,
+    "idCliente": "user77",
+    "tipoCuenta": "Corriente",
+    "balance": 33530.9
+  },
+  {
+    "numeroCuenta": 10078,
+    "idCliente": "user78",
+    "tipoCuenta": "Ahorro",
+    "balance": 9341.14
+  },
+  {
+    "numeroCuenta": 10079,
+    "idCliente": "user79",
+    "tipoCuenta": "Ahorro",
+    "balance": 10276.91
+  },
+  {
+    "numeroCuenta": 10080,
+    "idCliente": "user80",
+    "tipoCuenta": "Ahorro",
+    "balance": 3118.57
+  },
+  {
+    "numeroCuenta": 10081,
+    "idCliente": "user81",
+    "tipoCuenta": "Corriente",
+    "balance": 15917.09
+  },
+  {
+    "numeroCuenta": 10082,
+    "idCliente": "user82",
+    "tipoCuenta": "Corriente",
+    "balance": 9580.71
+  },
+  {
+    "numeroCuenta": 10083,
+    "idCliente": "user83",
+    "tipoCuenta": "Corriente",
+    "balance": 35078.17
+  },
+  {
+    "numeroCuenta": 10084,
+    "idCliente": "user84",
+    "tipoCuenta": "Corriente",
+    "balance": 15955.58
+  },
+  {
+    "numeroCuenta": 10085,
+    "idCliente": "user85",
+    "tipoCuenta": "Ahorro",
+    "balance": 4651.53
+  },
+  {
+    "numeroCuenta": 10086,
+    "idCliente": "user86",
+    "tipoCuenta": "Corriente",
+    "balance": 11786.54
+  },
+  {
+    "numeroCuenta": 10087,
+    "idCliente": "user87",
+    "tipoCuenta": "Corriente",
+    "balance": 19371.68
+  },
+  {
+    "numeroCuenta": 10088,
+    "idCliente": "user88",
+    "tipoCuenta": "Ahorro",
+    "balance": 24750.16
+  },
+  {
+    "numeroCuenta": 10089,
+    "idCliente": "user89",
+    "tipoCuenta": "Corriente",
+    "balance": 6135.66
+  },
+  {
+    "numeroCuenta": 10090,
+    "idCliente": "user90",
+    "tipoCuenta": "Ahorro",
+    "balance": 33237.4
+  },
+  {
+    "numeroCuenta": 10091,
+    "idCliente": "user91",
+    "tipoCuenta": "Ahorro",
+    "balance": 25047.95
+  },
+  {
+    "numeroCuenta": 10092,
+    "idCliente": "user92",
+    "tipoCuenta": "Ahorro",
+    "balance": 11082.02
+  },
+  {
+    "numeroCuenta": 10093,
+    "idCliente": "user93",
+    "tipoCuenta": "Ahorro",
+    "balance": 5631.6
+  },
+  {
+    "numeroCuenta": 10094,
+    "idCliente": "user94",
+    "tipoCuenta": "Corriente",
+    "balance": 29628.49
+  },
+  {
+    "numeroCuenta": 10095,
+    "idCliente": "user95",
+    "tipoCuenta": "Corriente",
+    "balance": 23386.19
+  },
+  {
+    "numeroCuenta": 10096,
+    "idCliente": "user96",
+    "tipoCuenta": "Corriente",
+    "balance": 11924.29
+  },
+  {
+    "numeroCuenta": 10097,
+    "idCliente": "user97",
+    "tipoCuenta": "Ahorro",
+    "balance": 7811.69
+  },
+  {
+    "numeroCuenta": 10098,
+    "idCliente": "user98",
+    "tipoCuenta": "Corriente",
+    "balance": 12403.52
+  },
+  {
+    "numeroCuenta": 10099,
+    "idCliente": "user99",
+    "tipoCuenta": "Ahorro",
+    "balance": 2151.21
+  },
+  {
+    "numeroCuenta": 10100,
+    "idCliente": "user100",
+    "tipoCuenta": "Ahorro",
+    "balance": 34159.6
+  }
+]
