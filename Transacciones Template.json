@@ -1,0 +1,8 @@
+{
+  "idTransaccion": "number",
+  "cantidad": "number",
+  "tipoTransaccion": "string",
+  "fecha": "string",
+  "idRemitente": "numeroCuenta",
+  "idDestinatario": "numeroCuenta"
+}

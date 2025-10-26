@@ -1,0 +1,6 @@
+{
+  "numeroCuenta": "number",
+  "idCliente": "string",
+  "tipoCuenta": "string",
+  "balance": "number"
+}

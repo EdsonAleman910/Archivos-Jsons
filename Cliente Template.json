@@ -1,0 +1,13 @@
+{
+  "username": "string",
+  "password": "string",
+  "firstName": "Alejandro", 
+  "lastName": "Huerta Reyna", 
+  "address": {
+    "streetNumber": "", 
+    "streetName": "",
+    "city": "", 
+    "state": "",
+    "country": ""
+  }
+}

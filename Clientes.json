@@ -1,0 +1,392 @@
+[
+  {
+    "username": "user1",
+    "password": "pass1",
+    "firstName": "Carlos",
+    "lastName": "Ramirez",
+    "address": {
+      "streetNumber": "123",
+      "streetName": "Av. Reforma",
+      "city": "Ciudad de México",
+      "state": "CDMX",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "firstName": "Lucía",
+    "lastName": "Gómez",
+    "address": {
+      "streetNumber": "456",
+      "streetName": "Calle 5",
+      "city": "Guadalajara",
+      "state": "Jalisco",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user3",
+    "password": "pass3",
+    "firstName": "Miguel",
+    "lastName": "Hernández",
+    "address": {
+      "streetNumber": "789",
+      "streetName": "Calle 10",
+      "city": "Monterrey",
+      "state": "Nuevo León",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user4",
+    "password": "pass4",
+    "firstName": "Sofía",
+    "lastName": "Martínez",
+    "address": {
+      "streetNumber": "101",
+      "streetName": "Av. Juárez",
+      "city": "Puebla",
+      "state": "Puebla",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user5",
+    "password": "pass5",
+    "firstName": "Andrés",
+    "lastName": "López",
+    "address": {
+      "streetNumber": "202",
+      "streetName": "Calle Hidalgo",
+      "city": "Tijuana",
+      "state": "Baja California",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user6",
+    "password": "pass6",
+    "firstName": "María",
+    "lastName": "García",
+    "address": {
+      "streetNumber": "303",
+      "streetName": "Calle Morelos",
+      "city": "Mérida",
+      "state": "Yucatán",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user7",
+    "password": "pass7",
+    "firstName": "Jorge",
+    "lastName": "Pérez",
+    "address": {
+      "streetNumber": "404",
+      "streetName": "Calle Zaragoza",
+      "city": "León",
+      "state": "Guanajuato",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user8",
+    "password": "pass8",
+    "firstName": "Ana",
+    "lastName": "Ruiz",
+    "address": {
+      "streetNumber": "505",
+      "streetName": "Calle Independencia",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user9",
+    "password": "pass9",
+    "firstName": "Luis",
+    "lastName": "Fernández",
+    "address": {
+      "streetNumber": "606",
+      "streetName": "Calle Victoria",
+      "city": "Toluca",
+      "state": "Estado de México",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user10",
+    "password": "pass10",
+    "firstName": "Isabel",
+    "lastName": "Sánchez",
+    "address": {
+      "streetNumber": "707",
+      "streetName": "Calle Libertad",
+      "city": "Chihuahua",
+      "state": "Chihuahua",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user11",
+    "password": "pass11",
+    "firstName": "Ricardo",
+    "lastName": "Castro",
+    "address": {
+      "streetNumber": "808",
+      "streetName": "Calle Progreso",
+      "city": "Saltillo",
+      "state": "Coahuila",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user12",
+    "password": "pass12",
+    "firstName": "Gabriela",
+    "lastName": "Ortiz",
+    "address": {
+      "streetNumber": "909",
+      "streetName": "Calle Unión",
+      "city": "Aguascalientes",
+      "state": "Aguascalientes",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user13",
+    "password": "pass13",
+    "firstName": "Fernando",
+    "lastName": "Morales",
+    "address": {
+      "streetNumber": "1010",
+      "streetName": "Calle Reforma",
+      "city": "San Luis Potosí",
+      "state": "San Luis Potosí",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user14",
+    "password": "pass14",
+    "firstName": "Patricia",
+    "lastName": "Vargas",
+    "address": {
+      "streetNumber": "1111",
+      "streetName": "Calle Hidalgo",
+      "city": "Morelia",
+      "state": "Michoacán",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user15",
+    "password": "pass15",
+    "firstName": "Héctor",
+    "lastName": "Rojas",
+    "address": {
+      "streetNumber": "1212",
+      "streetName": "Calle Juárez",
+      "city": "Culiacán",
+      "state": "Sinaloa",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user16",
+    "password": "pass16",
+    "firstName": "Laura",
+    "lastName": "Jiménez",
+    "address": {
+      "streetNumber": "1313",
+      "streetName": "Calle Morelos",
+      "city": "Villahermosa",
+      "state": "Tabasco",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user17",
+    "password": "pass17",
+    "firstName": "Alberto",
+    "lastName": "Navarro",
+    "address": {
+      "streetNumber": "1414",
+      "streetName": "Calle Zaragoza",
+      "city": "Tuxtla Gutiérrez",
+      "state": "Chiapas",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user18",
+    "password": "pass18",
+    "firstName": "Rosa",
+    "lastName": "Mendoza",
+    "address": {
+      "streetNumber": "1515",
+      "streetName": "Calle Independencia",
+      "city": "Oaxaca",
+      "state": "Oaxaca",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user19",
+    "password": "pass19",
+    "firstName": "Francisco",
+    "lastName": "Cruz",
+    "address": {
+      "streetNumber": "1616",
+      "streetName": "Calle Victoria",
+      "city": "Zacatecas",
+      "state": "Zacatecas",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user20",
+    "password": "pass20",
+    "firstName": "Elena",
+    "lastName": "Silva",
+    "address": {
+      "streetNumber": "1717",
+      "streetName": "Calle Libertad",
+      "city": "Durango",
+      "state": "Durango",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user21",
+    "password": "pass21",
+    "firstName": "Manuel",
+    "lastName": "Torres",
+    "address": {
+      "streetNumber": "1818",
+      "streetName": "Calle Progreso",
+      "city": "Colima",
+      "state": "Colima",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user22",
+    "password": "pass22",
+    "firstName": "Claudia",
+    "lastName": "Aguilar",
+    "address": {
+      "streetNumber": "1919",
+      "streetName": "Calle Unión",
+      "city": "La Paz",
+      "state": "Baja California Sur",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user23",
+    "password": "pass23",
+    "firstName": "Roberto",
+    "lastName": "Flores",
+    "address": {
+      "streetNumber": "2020",
+      "streetName": "Calle Reforma",
+      "city": "Hermosillo",
+      "state": "Sonora",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user24",
+    "password": "pass24",
+    "firstName": "Verónica",
+    "lastName": "Salazar",
+    "address": {
+      "streetNumber": "2121",
+      "streetName": "Calle Hidalgo",
+      "city": "Mexicali",
+      "state": "Baja California",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user25",
+    "password": "pass25",
+    "firstName": "Eduardo",
+    "lastName": "Luna",
+    "address": {
+      "streetNumber": "2222",
+      "streetName": "Calle Juárez",
+      "city": "Tepic",
+      "state": "Nayarit",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user26",
+    "password": "pass26",
+    "firstName": "Adriana",
+    "lastName": "Campos",
+    "address": {
+      "streetNumber": "2323",
+      "streetName": "Calle Morelos",
+      "city": "Campeche",
+      "state": "Campeche",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user27",
+    "password": "pass27",
+    "firstName": "Raúl",
+    "lastName": "Soto",
+    "address": {
+      "streetNumber": "2424",
+      "streetName": "Calle Zaragoza",
+      "city": "Chetumal",
+      "state": "Quintana Roo",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user28",
+    "password": "pass28",
+    "firstName": "Mónica",
+    "lastName": "Peña",
+    "address": {
+      "streetNumber": "2525",
+      "streetName": "Calle Independencia",
+      "city": "Tlaxcala",
+      "state": "Tlaxcala",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user29",
+    "password": "pass29",
+    "firstName": "Guillermo",
+    "lastName": "Delgado",
+    "address": {
+      "streetNumber": "2626",
+      "streetName": "Calle Victoria",
+      "city": "Xalapa",
+      "state": "Veracruz",
+      "country": "México"
+    }
+  },
+  {
+    "username": "user30",
+    "password": "pass30",
+    "firstName": "Carmen",
+    "lastName": "Ramos",
+    "address": {
+      "streetNumber": "2727",
+      "streetName": "Calle Libertad",
+      "city": "Cuernavaca",
+      "state": "Morelos",
+      "country": "México"
+    }
+  }
+]
